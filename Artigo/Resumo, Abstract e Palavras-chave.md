@@ -1,5 +1,3 @@
-Claro! Aqui está o arquivo `.md` com seu exemplo completo adicionado ao final:
-
 ```markdown
 # Como Criar o Resumo, Abstract e Palavras-chave de um Artigo Acadêmico
 
