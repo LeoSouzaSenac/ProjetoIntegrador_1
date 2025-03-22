@@ -108,16 +108,7 @@ A escolha dessas tecnologias foi motivada pela necessidade de desenvolver uma ap
 
 ---
 
-### Referências
 
-- **W3C**. (2008). *Diretrizes para Acessibilidade de Conteúdo Web (WCAG)*. Disponível em: [https://www.w3.org/WAI/WCAG2008/](https://www.w3.org/WAI/WCAG2008/).
-- **W3C**. (2018). *Diretrizes para Acessibilidade de Conteúdo Web (WCAG) 2.1*. Disponível em: [https://www.w3.org/WAI/WCAG21/](https://www.w3.org/WAI/WCAG21/).
-- LOUREIRO, A., & SILVA, R. (2020). Impactos da falta de acessibilidade digital. *Revista de Tecnologia e Inclusão Digital*, 12(3), 45-60.
-- REACT. (2021). *React – A JavaScript library for building user interfaces*. Disponível em: [https://reactjs.org/](https://reactjs.org/).
-- TILKEMANN, L. (2020). *Node.js: Construindo aplicações escaláveis com JavaScript*. São Paulo: Editora Tech.
-- ELMASRI, R., & NAVATHE, S. (2019). *Fundamentals of Database Systems*. 7ª ed. Boston: Addison-Wesley.
-
----
 
 
 
