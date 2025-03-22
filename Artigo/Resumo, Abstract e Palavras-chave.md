@@ -1,4 +1,3 @@
-```markdown
 # Como Criar o Resumo, Abstract e Palavras-chave de um Artigo Acadêmico
 
 O resumo e o abstract são partes essenciais de um artigo acadêmico, pois fornecem uma visão geral concisa do conteúdo do trabalho. Ambos devem ser objetivos e descrever o que foi feito, como foi realizado o trabalho e os principais resultados obtidos. Além disso, as palavras-chave ajudam a caracterizar o tema e as tecnologias ou métodos utilizados na pesquisa.
